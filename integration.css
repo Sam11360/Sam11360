@@ -1,0 +1,106 @@
+
+
+.conteneur{
+  display: flex;
+  justify-content: space-around;
+  }
+
+.conteneurLien{
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 130px;
+  }
+
+.conteneurImage{
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 130px;
+  }
+
+.logo{
+  margin-left: 1%;
+}
+.gauche{
+  margin-left: 60%;
+}
+
+.recommande{
+
+  padding-top: 50px;
+}
+
+.logements{
+  padding-left: 1%;
+  padding-top: 50px;
+}
+
+.experiences{
+  padding-top: 50px;
+  padding-left: 1%;
+}
+
+.lieux{
+  padding-top: 50px;
+  padding-left: 1%;
+}
+
+.header{
+  font-size: 48px !important;
+  line-height: 56px !important;
+  letter-spacing: -0.8px !important;
+  padding-top: 8px !important;
+  padding-bottom: 8px !important;
+  padding-left: 130px;
+  font-weight: 300 !important;
+}
+
+.formulaire{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  padding-left: 163px;
+  width: 50%;
+
+}
+
+.ou{
+  display: flex;
+  flex-direction: column;
+  padding: 11px;
+  vertical-align: middle;
+  position: relative;
+  border: solid 1px;
+}
+.quand{
+  display: flex;
+  flex-direction: column;
+  padding: 11px;
+  vertical-align: middle;
+  position: relative;
+  border: solid 1px;
+}
+
+.voyageurs{
+  display: flex;
+  flex-direction: column;
+  padding: 11px;
+  vertical-align: middle;
+  position: relative;
+  border: solid 1px;
+}
+
+.recherche{
+  display: flex;
+  flex-direction: column;
+  padding: 11px;
+  vertical-align: middle;
+  position: relative;
+  background: #FF5A5F;
+  border: solid 1px;
+}
+
+.reservees{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 130px;
+}
